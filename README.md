@@ -30,8 +30,8 @@
 
 ## 📊 Database Diagram
 
-<p align="center">
-  <img src="diagram/diagram.svg" alt="Database Diagram" width="800">
+<p align="left">
+  <img src="diagram/Database_diagram.svg" alt="Database Diagram" width="800">
 </p>
 
 

@@ -28,4 +28,11 @@
 
 ---
 
+## 📊 Database Diagram
+
+<p align="center">
+  <img src="diagram/diagram.svg" alt="Database Diagram" width="800">
+</p>
+
+
 Project implemented in MSSQL Server language

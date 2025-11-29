@@ -31,7 +31,7 @@
 ## 📊 Database Diagram
 
 <p align="left">
-  <img src="diagram/Database_diagram.svg" alt="Database Diagram" width="800">
+  <img src="diagram/Database_diagram.svg" alt="Database Diagram" width="1200">
 </p>
 
 

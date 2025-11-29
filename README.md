@@ -113,7 +113,7 @@ The system should support frequently used reports via SQL views:
 ---
 
 ## 🛠️ Technology
-The project must be implemented using **Microsoft SQL Server**.
+The project was implemented using **Microsoft SQL Server**.
 
 ---
 
